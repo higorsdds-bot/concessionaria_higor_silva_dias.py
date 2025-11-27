@@ -1,9 +1,9 @@
 print("\t ~ Bem vindo ao mundo Invertido dos carros da GLT ~ ")
 print(" \t \t ~ Cadastro do Cliente GLT ~")
-cliente_nome = input("Informe seu nome: ").strip().title()
+cliente_name = input("Informe seu nome: ").strip().title()
 cliente_number = input("Informe o telefone de contato: ").strip()
 saldoFinal = float(input("Saldo disponível (R$): "))
-print(f"\nBem vindo, {cliente_nome}")
+print(f"\nBem vindo, {cliente_name}")
 
 def menu():
     print("\t \t OPÇÕES ")
