@@ -1,4 +1,4 @@
-🚗 Sistema de Gestão de Inventário GLT Veículos
+  Sistema de Gestão de Inventário GLT Veículos
 
 O sistema permite ao usuário:
 
@@ -8,20 +8,7 @@ Visualizar o inventário de veículos.
 
 Realizar transações de venda, aluguel e compra de novos veículos para o estoque.
 
-🚀 Como Executar o Código
-
-Salve o código original em um arquivo chamado, por exemplo, glt_inventario.py.
-
-Abra o terminal ou prompt de comando.
-
-Execute o arquivo Python:
-
-python glt_inventario.py
-
-
 O programa iniciará solicitando o cadastro inicial.
-
-Documentação
 
 1. Configuração Inicial e Variáveis Globais
 
